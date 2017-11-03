@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "766021644463",
+    "firebase_url": "https://fir-nsuworkshop.firebaseio.com",
+    "project_id": "fir-nsuworkshop",
+    "storage_bucket": "fir-nsuworkshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766021644463:android:f69570fbf3d4c763",
+        "android_client_info": {
+          "package_name": "com.mmr.meza.firebasensu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766021644463-e6o46d6rjh4ejlvlbp5g6aot41diuejv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mmr.meza.firebasensu",
+            "certificate_hash": "c1d847863a5e569d9294029cbe711366797a5ca3"
+          }
+        },
+        {
+          "client_id": "766021644463-up9vf98rdgknfrlpm9nq53a5bbpa18cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZMmoKiX6_pzvYrV5MwQiSQORSNAcfuI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766021644463-up9vf98rdgknfrlpm9nq53a5bbpa18cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
